@@ -1,7 +1,7 @@
 # 无锡科院移动(3+2)-2021班
 
 #### 受[浙江大学](https://github.com/QSCTech/zju-icicles)与[清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)相关项目启发，创立了本项目。
-考虑到其他同学访问速度的影响，先放在Gitee，之后再转移到GitHub
+考虑到其他同学访问速度的影响，每天与Gitee进行同步 https://gitee.com/panyixiao/wxky3p2
 
 
 本项目负责人为此班班长 [潘亦潇](https://www.panyixiao.com/)  
