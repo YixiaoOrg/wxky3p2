@@ -1,12 +1,7 @@
 # 无锡科院移动(3+2)2021班
 
 #### 受[浙江大学](https://github.com/QSCTech/zju-icicles)与[清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)相关项目启发，创立了本项目。
-考虑到其他同学访问速度的影响，在GitHub进行编辑https://github.com/stuPYX/wxky3p2 ，
 
-然后每天与Gitee进行同步 https://gitee.com/panyixiao/wxky3p2
-
-
-此项目负责人为 [潘亦潇](https://www.panyixiao.com/)  
 #### 班级简介
 本班由无锡科技职业技术学院（3年）与盐城师范学院（2年）分段培养
 （在无锡科技职业学院学习三年考核合格者可转入分段培养本科院校学习两年，毕业后颁发分段培养院校本科文凭.）
