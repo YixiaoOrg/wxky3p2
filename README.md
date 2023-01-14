@@ -1,4 +1,5 @@
 # 无锡科院移动(3+2)2021班
+# 最新情况：学校课程太烂，搞不了，本项目终结
 
 #### 受[浙江大学](https://github.com/QSCTech/zju-icicles)与[清华大学](https://github.com/PKUanonym/REKCARC-TSC-UHT)相关项目启发，创立了本项目。
 
